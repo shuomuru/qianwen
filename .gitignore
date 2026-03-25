@@ -1,0 +1,5 @@
+# 忽略 IDEA 配置文件夹
+.idea/
+
+# 忽略 qwen 文件夹
+qwen/
