@@ -44,7 +44,7 @@ python run1.py --server-port 8000 --inbrowser
 --inbrowser：启动后自动打开浏览器
 访问界面
 http://127.0.0.1:8000
-'''
+```
 
 **使用说明**
 选择模型：下拉菜单中选择 Qwen1.5、Qwen2.5、Qwen3 或输入自定义模型路径。
